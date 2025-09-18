@@ -1,0 +1,27 @@
+Product 1
+Order 1 #correction
+Cart 1
+
+collect users mail
+prepare the email body
+send email
+
+
+collect users mail
+prepare the email body
+send email
+collect users mail
+prepare the email body
+send email # correction
+collect users mail
+prepare the email body
+send email
+collect users mail
+prepare the email body
+send email
+collect users mail
+prepare the email body
+send email
+collect users mail
+prepare the email body
+send email

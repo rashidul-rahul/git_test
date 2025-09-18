@@ -1,0 +1,4 @@
+collect users mail
+prepare the email body
+Add marketing image
+send email
