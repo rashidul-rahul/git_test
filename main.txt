@@ -15,7 +15,7 @@ prepare the email body
 send email # correction
 collect users mail
 prepare the email body
-send email
+send email  #correction
 collect users mail
 prepare the email body
 send email
