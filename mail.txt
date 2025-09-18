@@ -1,6 +1,7 @@
 collect users mail
 prepare the email body
 Add marketing image
+Fix image issue
 send email
 
 add new line of code
